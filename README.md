@@ -1,2 +1,2 @@
 # easytube
-Simple project to download youtibe video and getting information about video 
+Simple project to download youtube video and getting information about video 
